@@ -60,20 +60,17 @@ plugins:
 author:
   name   : "weixi"
   avatar : "/assets/images/weixi.jpg"
-  bio    : "本博客内容用于"
+  bio    : "简单的个人博客"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/weixiiii1122/weixiiii1122.github.io"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/weixiiii1122/weixiiii1122.github.io"
 
 defaults:
   # _posts
