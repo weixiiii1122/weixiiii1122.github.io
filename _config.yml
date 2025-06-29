@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "weixi"
   avatar : "/assets/images/weixi.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "本博客内容用于"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
